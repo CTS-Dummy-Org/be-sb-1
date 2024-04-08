@@ -1,9 +1,9 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: ${repo}
+  name: be-sb-1
   annotations:
-    github.com/project-slug: CTS-Dummy-Org/${repo}
+    github.com/project-slug: CTS-Dummy-Org/be-sb-1
 spec:
   type: service
   owner: user:guest
